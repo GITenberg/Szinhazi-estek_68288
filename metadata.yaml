@@ -1,0 +1,29 @@
+_repo: Szinhazi-estek_68288
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ambrus, Zoltán
+    alias: Ambrus, Zoltan
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '34456'
+    url: http://www.gutenberg.org/2009/agents/34456
+    wikipedia: https://hu.wikipedia.org/wiki/Ambrus_Zolt%C3%A1n_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2022-06-11'
+identifiers:
+  gutenberg: '68288'
+language: hu
+pgterms:marc905: 20220602143709ambrus
+pgterms:marc906: '1914'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  National Digital Archive
+publication_note: Hungary :Élet,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Színházi esték
+url: http://www.gutenberg.org/ebooks/68288
